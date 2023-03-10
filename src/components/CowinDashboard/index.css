@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 10px;
+  background-color: #1c1c2b;
+  width: 100%;
+}
+.main-heading-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.img-style {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.main-heading {
+  color: #2cc6c6;
+}
+.header-text {
+  color: white;
+  font-family: Roboto;
+}
+.graphs-container {
+  color: white;
+}
